@@ -10,5 +10,6 @@ public class Main {
         } else {
             System.out.println("The value is not equal to 1");
         }
+        System.out.println("yolo");
     }
 }
